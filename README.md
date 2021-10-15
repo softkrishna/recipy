@@ -1,1 +1,3 @@
 # recipy
+rice 
+curry
